@@ -4,11 +4,6 @@ excerpt: &excerpt "A presentation on the allyship journey given at the 2019 Anit
 tweet: "A presentation on the allyship journey given at the 2019 AnitaB.org's Male Allies Summit."
 modified: 2020-05-03
 category: words
-image: "ghc2018-1-we-are-here-1600x500.jpg"
-header:
-  teaser: "ghc2018-1-we-are-here-1600x500.jpg"
-  image: "ghc2018-1-we-are-here-1600x500.jpg"
-  caption: "Photo by Tod Hilton"
 tags: [allyship, technology]
 fullwidth: true
 featured:
