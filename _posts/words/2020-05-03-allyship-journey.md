@@ -25,6 +25,14 @@ What the allyship journey looks like: where we start, the wandering path along t
 how we can influence others, and whether we ever attain the ubiquitous title of ally.
 </td>
 </tr>
+<tr>
+<td>
+  <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2></a>
+</td>
+<td>
+Who is this guy?
+</td>
+</tr>
 
 
 </table>
