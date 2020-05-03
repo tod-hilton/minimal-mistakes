@@ -45,7 +45,7 @@ ads: false
       <a href="/images/allyship-slide-03.png"><img src="/images/allyship-slide-03-sm.png" alt="Allyship journey - slide 3"></a>
     </td>
     <td>
-      <p>In 1967, Kathrine Switzer was the first woman to run the Boston Marathon.
+      <p>In 1967, Kathrine Switzer was the first woman to officially run the Boston Marathon.
         It wasn’t a grand celebration of the officials finally deciding to allow
         women to run the race. Rather, it was a fluke that her registration even
         went through; she had used her initials on the entry forms instead of her
