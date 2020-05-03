@@ -16,11 +16,7 @@ ads: false
 ---
 
 <table>
-  <tr>
-    <th style="width:50%"></td>
-    <th style="width:50%"></td>
-  </tr>
-  <tr>
+  <tr style="width:40%">
     <td>
       <a href="/images/allyship-slide-01.png"><img src="/images/allyship-slide-01-sm.png" alt="Allyship journey - slide 1"></a>
     </td>
@@ -30,7 +26,7 @@ ads: false
         how we can influence others, and whether we ever attain the ubiquitous title of ally.</p>
     </td>
   </tr>
-  <tr>
+  <tr style="width:60%">
     <td>
       <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2"></a>
     </td>
@@ -86,6 +82,11 @@ ads: false
         they actively tried to deny her the opportunity to succeed. That decision was made
         by a group of men, because, historically speaking, men are the ones in the positions
         of power.</p>
+      <p>This is why men need to be involved. These are human issues, not just women’s issues
+        or LGBTQ+ issues or racial issues. Men are often the ones in power, controlling the
+        decision-making processes.</p>
+      <p?Men must be involved in creating equity for people in
+        historically excluded groups.</p>
       <p>Source: https://kathrineswitzer.com/</p>
     </td>
   </tr>
