@@ -10,6 +10,10 @@ featured:
 ads: false
 ---
 
+This is the text version of a talk I gave on November 5, 2019, at
+[AnitaB.org's](https://anitab.org/) [Male Ally Summit 2019](https://community.anitab.org/event/male-ally-summit-2019/)
+in New York City.
+
 <table>
   <tr style="width:40%">
     <td>
