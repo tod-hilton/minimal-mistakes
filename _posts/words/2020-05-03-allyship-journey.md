@@ -77,7 +77,7 @@ in New York City.
       <p>Have you heard the phrase “women’s rights are women’s issues?” Growing up in the
         80’s, that was the lesson I absorbed from society and my peers. I entered adulthood
         with the idea that women's rights weren’t my issue and I shouldn’t do anything.</p>
-      <p>How about these phrases: “if you work hard, you’ll succeed”, “we all make our own
+      <p>How about these maxims: “if you work hard, you’ll succeed”, “we all make our own
         opportunities”, and “pull yourself up by your bootstraps.”</p>
       <p>As a young adult, it began to occur to me that there was a similar problem with all
         of those phrases. They all make an assumption about where we fit in society.
