@@ -16,7 +16,7 @@ ads: false
 ---
 
 <table>
-  <tr>
+  <tr style="width:40%">
     <td>
       <a href="/images/allyship-slide-01.png"><img src="/images/allyship-slide-01-sm.png" alt="Allyship journey - slide 1"></a>
     </td>
@@ -25,7 +25,7 @@ ads: false
         how we can influence others, and whether we ever attain the ubiquitous title of ally.</p>
     </td>
   </tr>
-  <tr>
+  <tr style="width:70%">
     <td>
       <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2"></a>
     </td>
