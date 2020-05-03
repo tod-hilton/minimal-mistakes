@@ -18,7 +18,7 @@ ads: false
 <table>
   <tr>
     <td>
-      [![Allyship journey - slide 1](/images/allyship-slide-01-sm.png "Allyship Journey - slide 1")](/images/allyship-slide-01.png)
+      <a href="/images/allyship-slide-01.png"><img src="/images/allyship-slide-01-sm.png" alt="Allyship journey - slide 1"></a>
     </td>
     <td>
       What the allyship journey looks like: where we start, the wandering path along the way,
