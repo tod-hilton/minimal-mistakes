@@ -88,11 +88,10 @@ ads: false
         they actively tried to deny her the opportunity to succeed. That decision was made
         by a group of men, because, historically speaking, men are the ones in the positions
         of power.</p>
-      <p>This is why men need to be involved. These are human issues, not just women’s issues
-        or LGBTQ+ issues or racial issues. Men are often the ones in power, controlling the
-        decision-making processes.</p>
-      <p?Men must be involved in creating equity for people in
-        historically excluded groups.</p>
+      <p>This is why men need to be involved in creating equity for people in historically
+        excluded groups. These are human issues, not just women’s issues or LGBTQ+ issues
+        or racial issues. Men are often the ones in power, controlling the decision-making
+        processes.</p>
       <p>Image source: https://kathrineswitzer.com/</p>
     </td>
   </tr>
