@@ -59,7 +59,7 @@ ads: false
         We have no space in the Marathon for any unauthorized person, even a man.
         If that girl were my daughter, I would spank her." Source:
         <a href="https://web.archive.org/web/20120306124858/http://www.mediaed.org/assets/products/151/Kathy_Switzer.pdf">New York Times April 23, 1967</a></p>
-      <p>Source: https://kathrineswitzer.com/</p>
+      <p>Image source: https://kathrineswitzer.com/</p>
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ ads: false
         decision-making processes.</p>
       <p?Men must be involved in creating equity for people in
         historically excluded groups.</p>
-      <p>Source: https://kathrineswitzer.com/</p>
+      <p>Image source: https://kathrineswitzer.com/</p>
     </td>
   </tr>
 </table>
