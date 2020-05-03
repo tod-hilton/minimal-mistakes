@@ -27,7 +27,7 @@ ads: false
   </tr>
   <tr>
     <td>
-      <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2></a>
+      <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2"></a>
     </td>
     <td>
       Who is this guy?
