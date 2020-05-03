@@ -33,8 +33,8 @@ ads: false
     <td>
       <p>Who is this guy, Tod Hilton?</p>
       <p>I’m a technical writer, currently at Google. During my twenty years in technology I’ve
-        done the following jobs (do you know the acronyms?): SA, SE, SRE, DBA, SDE/SWE, & SDET.
-        My personal interests include spending time with my family, reading, writing, photography,
+        done the following jobs (so many acronyms): SA, SE, SRE, DBA, SDE/SWE, & SDET.
+        In my personal time, I enjoy spending time with my family, reading, writing, photography,
         traveling, and being a geek/nerd.</p>
       <p>I’m not an expert on allyship, but I have been on the journey for some time and enjoy
         discussing it with others.</p>
