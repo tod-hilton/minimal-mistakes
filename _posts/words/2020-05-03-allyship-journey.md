@@ -47,7 +47,7 @@ ads: false
     <td>
       <p>In 1967, Kathrine Switzer was the first woman to officially run the Boston Marathon.
         It wasn’t a grand celebration of the officials finally deciding to allow
-        women to run the race. Rather, it was a fluke that her registration even
+        women to participate. Rather, it was a fluke that her registration even
         went through; she had used her initials on the entry forms instead of her
         full name. Besides, the entry forms didn't have a place to specify sex even
         if she had meant to do so.</p>
