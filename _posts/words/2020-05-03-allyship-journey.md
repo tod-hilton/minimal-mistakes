@@ -43,18 +43,15 @@ ads: false
       women to run the race. Rather, it was a fluke that her registration even
       went through; she had used her initials on the entry forms instead of her
       full name. Besides, the entry forms didn't have a place to specify sex even
-      if she had meant to do so.
-      
+      if she had meant to do so.      
       While she was running, a race official tried to forcibly remove her, 
       but her boyfriend, Tom Miller, prevented it.
-
       The director of the Boston Athletic Association, Will Cloney, later said "Women
       can't run in the Marathon because the rules forbid it. Unless we have rules,
       society will be in chaos. I don't make the rules, but I try to carry them out.
       We have no space in the Marathon for any unauthorized person, even a man.
       If that girl were my daughter, I would spank her." Source:
       <a href="https://web.archive.org/web/20120306124858/http://www.mediaed.org/assets/products/151/Kathy_Switzer.pdf">New York Times April 23, 1967</a>
-
       Source: https://kathrineswitzer.com/
     </td>
   </tr>
