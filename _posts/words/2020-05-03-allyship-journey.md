@@ -82,7 +82,8 @@ in New York City.
       <p>As a young adult, it began to occur to me that there was a similar problem with all
         of those phrases. They all make an assumption about where we fit in society.
         They’re built around the persona that I embody: a white, cisgender, heterosexual,
-        able-bodied, middle-income man.</p>
+        able-bodied, middle-income man. If you're not all of these things (or at least some),
+        it becomes increasingly difficult to bring those maxims to reality.</p>
       <p>I'm sure Kathrine Switzer worked hard training for the Boston Marathon. And yet,
         they actively tried to deny her the opportunity to succeed. That decision was made
         by a group of men, because, historically speaking, men are the ones in the positions
