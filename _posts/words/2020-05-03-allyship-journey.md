@@ -114,8 +114,8 @@ in New York City.
       <p>I joined tech in the late 90's and noticed there were fewer women in technical
         roles on my teams&mdash;this is often still the case. And when there were women
         on the team, guys often referred to them in subtly unflattering, derisive, or
-        misogynistic ways. Being a less experienced member of the teams, I was
-        often too nervous or afraid to say anything in those moments.</p>
+        misogynistic ways. Being less experienced, I was often too nervous or afraid to
+        say anything in those moments.</p>
       <p>As I gained more life and work experience, I realized that I needed to be more
         than a silent supporter.</p>
       <p>Based on my experiences, these are the stages of my allyship journey:
