@@ -95,4 +95,37 @@ in New York City.
       <p>Image source: https://kathrineswitzer.com/</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="/images/allyship-slide-05.png"><img src="/images/allyship-slide-05-sm.png" alt="Allyship journey - slide 5"></a>
+    </td>
+    <td>
+      <p><strong>My begining</strong></p>
+      <p>Entering adulthood, it began to dawn on me that my experience was different
+        from others around me, especially women and people from historically excluded
+        groups.</p>
+      <p>When I was an inexperienced accountant fresh out of university, I got
+        a job as a staff accountant at a small firm and was given a window office on the
+        main floor of the building. A few months later, the partners hired a female
+        accountant who was a CPA with 20 years of experience. She was given a desk in
+        a small, cramped, office upstairs that she shared with another female accountant.
+        It didn't make sense to me at the time and I don't recall getting much of an
+        explanation when I asked about it.</p>
+      <p>I joined tech in 1990 and noticed there were fewer women in technical
+        roles on my teams&mdash;this is often still the case. And when there were women
+        on the team, guys often referred to them in subtly unflattering, derisive, or
+        misoginystic ways. Being young and a less experienced member of the teams, I was
+        often too nervous or afraid to say anything in those moments.</p>
+      <p>As I gained more life and work experience, I realized that I need to be more
+        than a silent supporter.</p>
+      <p>Based on my experiences, these are the stages of my allyship journey:
+        <ul>
+          <li>It's OK to make mistakes</li>
+          <li>Build your awareness</li>
+          <li>Discuss allyship with others</li>
+          <li>Practice allyship & advocacy</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
 </table>
