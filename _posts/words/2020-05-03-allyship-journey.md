@@ -136,10 +136,9 @@ in New York City.
       <p>Oh no, I screwed up!</p>
       <p>In the live version of this talk, I tell a story about how I tone policed a female
         friend on Facebook and didn't figure out the problem with my actions until a year later.
-        Even though it had been so long since my assinine behavior, I still apologized and
-        told her how I'd figured it out.</p>
-      <p>The whole point of this section is to remind you that you're going to make mistakes...
-        and that's OK.</p>
+        Even though it had been so long since my assinine behavior, I still apologized.</p>
+      <p>The whole point of this section is to remind you that you're going to make 
+        mistakes...and that's OK.</p>
       <p>Allyship can be a scary prospect. For men, we're going against the grain of
         society's expecations and the persona we've built around the concept of masculinity.
         It's difficult to make ourselves vulnerable. I've had several friends and coworkers
