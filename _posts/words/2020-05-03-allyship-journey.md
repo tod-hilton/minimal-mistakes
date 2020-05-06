@@ -133,7 +133,7 @@ in New York City.
       <a href="/images/allyship-slide-06.png"><img src="/images/allyship-slide-06-sm.png" alt="Allyship journey - slide 6 - It's OK to make mistakes"></a>
     </td>
     <td>
-      <p>Oh no, I screwed up!</p>
+      <p><strong>Oh no, I screwed up!</strong></p>
       <p>In the live version of this talk, I tell a story about how I tone policed a female
         friend on Facebook and didn't figure out the problem with my actions until a year later.
         Even though it had been so long since my assinine behavior, I still apologized.</p>
