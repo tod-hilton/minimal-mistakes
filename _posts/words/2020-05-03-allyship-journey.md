@@ -17,7 +17,7 @@ in New York City.
 <table>
   <tr style="width:40%">
     <td>
-      <a href="/images/allyship-slide-01.png"><img src="/images/allyship-slide-01-sm.png" alt="Allyship journey - slide 1"></a>
+      <a href="/images/allyship-slide-01.png"><img src="/images/allyship-slide-01-sm.png" alt="Allyship journey - slide 1 - Introduction"></a>
     </td>
     <td>
       <p><strong>The Allyship Journey</strong></p>
@@ -27,7 +27,7 @@ in New York City.
   </tr>
   <tr style="width:60%">
     <td>
-      <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2"></a>
+      <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2 - Tod Hilton bio"></a>
     </td>
     <td>
       <p>Who is this guy, Tod Hilton?</p>
@@ -41,7 +41,7 @@ in New York City.
   </tr>
   <tr>
     <td>
-      <a href="/images/allyship-slide-03.png"><img src="/images/allyship-slide-03-sm.png" alt="Allyship journey - slide 3"></a>
+      <a href="/images/allyship-slide-03.png"><img src="/images/allyship-slide-03-sm.png" alt="Allyship journey - slide 3 - Katherine Switzer being thrown out of the 1967 Boston Marathon"></a>
     </td>
     <td>
       <p>In 1967, Kathrine Switzer was the first woman to officially run the Boston Marathon.
@@ -63,7 +63,7 @@ in New York City.
   </tr>
   <tr>
     <td>
-      <a href="/images/allyship-slide-04.png"><img src="/images/allyship-slide-04-sm.png" alt="Allyship journey - slide 4"></a>
+      <a href="/images/allyship-slide-04.png"><img src="/images/allyship-slide-04-sm.png" alt="Allyship journey - slide 4 - Katherine Switzer running with allies in the 1967 Boston Marathon"></a>
     </td>
     <td>
       <p>As you can see, there wasn't any chaos.</p>
@@ -97,7 +97,7 @@ in New York City.
   </tr>
   <tr>
     <td>
-      <a href="/images/allyship-slide-05.png"><img src="/images/allyship-slide-05-sm.png" alt="Allyship journey - slide 5"></a>
+      <a href="/images/allyship-slide-05.png"><img src="/images/allyship-slide-05-sm.png" alt="Allyship journey - slide 5 - Stages of the allyship journey"></a>
     </td>
     <td>
       <p><strong>My beginning</strong></p>
@@ -126,6 +126,37 @@ in New York City.
           <li>Practice allyship & advocacy</li>
         </ul>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/images/allyship-slide-06.png"><img src="/images/allyship-slide-06-sm.png" alt="Allyship journey - slide 6 - It's OK to make mistakes"></a>
+    </td>
+    <td>
+      <p>Oh no, I screwed up!</p>
+      <p>In the live version of this talk, I tell a story about how I tone policed a female
+        friend on Facebook and didn't figure out the problem with my actions until a year later.
+        Even though it had been so long since my assinine behavior, I still apologized and
+        told her how I'd figured it out.</p>
+      <p>The whole point of this section is to remind you that you're going to make mistakes...
+        and that's OK.</p>
+      <p>Allyship can be a scary prospect. For men, we're going against the grain of
+        society's expecations and the persona we've built around the concept of masculinity.
+        It's difficult to make ourselves vulnerable. I've had several friends and coworkers
+        who have confessed that they're afraid of making a situation worse or doing
+        something wrong and not understanding why. They would rather stay quiet than be
+        vulnerable to making a mistake.</p>
+      <p>Think about the successes in your life. I'm sure most, if not all, of them were
+        preceded by failures. You took time to learn from those failures and turn those
+        lessons into successes. That's how we need to approach practicing allyship.</p>
+      <p>When we make mistakes, it's our responsibility to learn from them and be our own
+        teacher. Don't expect the other person to step in and give you the lesson(s) you
+        might need. They're probably experiencing discomfort or anxiety from the situation,
+        even triggering past trauma. There are many resources online for us to look to
+        for assistance (see the resources slides). Remember to talk to and learn from
+        others practicing allyship. Your friends and coworkers can be wonderful sources
+        for support and learning in these situations.</p>
+      <p>And remember to apologize...even a year later.</p>
     </td>
   </tr>
 </table>
