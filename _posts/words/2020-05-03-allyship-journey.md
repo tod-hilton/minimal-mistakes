@@ -30,7 +30,7 @@ in New York City.
       <a href="/images/allyship-slide-02.png"><img src="/images/allyship-slide-02-sm.png" alt="Allyship journey - slide 2 - Tod Hilton bio"></a>
     </td>
     <td>
-      <p>Who is this guy, Tod Hilton?</p>
+      <p><strong>Who is this guy, Tod Hilton?</strong></p>
       <p>I’m a technical writer, currently at Google. During my twenty years in technology I’ve
         done the following jobs (so many acronyms): SA, SE, SRE, DBA, SDE/SWE, & SDET.
         In my personal time, I enjoy spending time with my family, reading, writing, photography,
@@ -44,6 +44,7 @@ in New York City.
       <a href="/images/allyship-slide-03.png"><img src="/images/allyship-slide-03-sm.png" alt="Allyship journey - slide 3 - Katherine Switzer being thrown out of the 1967 Boston Marathon"></a>
     </td>
     <td>
+      <p><strong>1967 Boston Marathon</strong></p>
       <p>In 1967, Kathrine Switzer was the first woman to officially run the Boston Marathon.
         It wasn’t a grand celebration of the officials finally deciding to allow
         women to participate. Rather, it was a fluke that her registration even
