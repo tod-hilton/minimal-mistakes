@@ -160,4 +160,31 @@ in New York City.
       <p>And remember to apologize...even a year later.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="/images/allyship-slide-07.png"><img src="/images/allyship-slide-07-sm.png" alt="Allyship journey - slide 7 - Build awareness"></a>
+    </td>
+    <td>
+      <p><strong>Build your awareness</strong></p>
+      <p>Empathy is the key to most things in life.</p>
+      <p>Think about that manager you had who was supportive of your career goals and
+        the daily struggles we all deal with. Or your understanding friend who is ready
+        to listen to your thoughts and troubles at the drop of a hat. They're both coming
+        from a place of empathy.</p>
+      <p>We can influence our empathy by building our awareness.</p>
+      <p>Several years ago, I realized that most of the people I followed on Twitter
+        and Instagram were the same demographic as me...white guys in tech. It was an
+        echo chamber of my own white, male, heterosexual, cisgender, socio-economic, and
+        able-bodied perspective. I made a conscious decision to find, follow, and learn
+        from people who didn't fit into those groups. It's helped to broaden my
+        perspective on current events and expand the media I consume. These people,
+        different from me in a few or many ways, often provide me with ah-ha moments
+        that I wouldn't have previously considered.</p>
+      <p>As you increase your awareness, you'll build your empathy. Practice, practice,
+        practice. Just like lifting weights to get stronger or running to get faster,
+        expanding your awareness will develop your empathy.</p>
+      <p>Awareness and empathy are the foundations of allyship. Always continue building
+        them both.</p>
+    </td>
+  </tr>
 </table>
