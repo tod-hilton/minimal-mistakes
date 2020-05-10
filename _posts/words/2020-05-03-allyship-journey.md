@@ -175,8 +175,8 @@ in New York City.
       <p>Several years ago, I realized that most of the people I followed on Twitter
         and Instagram were the same demographic as me...white guys in tech. It was an
         echo chamber of my own white, male, heterosexual, cisgender, socio-economic, and
-        able-bodied perspective. I made a conscious decision to find, follow, and learn
-        from [people who don't fit into those groups](https://twitter.com/i/lists/819947795838799872).
+        able-bodied perspective. I made a conscious decision to find, follow, and learn from
+        <a href="https://twitter.com/i/lists/819947795838799872">people who don't fit into those groups</a>.
         It's helped to broaden my perspective on current events and expand the media I
         consume. These people, different from me in a few or many ways, often provide me
         with ah-ha moments that I wouldn't have previously considered.</p>
