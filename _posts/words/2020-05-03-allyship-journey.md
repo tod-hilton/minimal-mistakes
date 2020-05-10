@@ -176,10 +176,10 @@ in New York City.
         and Instagram were the same demographic as me...white guys in tech. It was an
         echo chamber of my own white, male, heterosexual, cisgender, socio-economic, and
         able-bodied perspective. I made a conscious decision to find, follow, and learn
-        from people who didn't fit into those groups. It's helped to broaden my
-        perspective on current events and expand the media I consume. These people,
-        different from me in a few or many ways, often provide me with ah-ha moments
-        that I wouldn't have previously considered.</p>
+        from [people who don't fit into those groups](https://twitter.com/i/lists/819947795838799872).
+        It's helped to broaden my perspective on current events and expand the media I
+        consume. These people, different from me in a few or many ways, often provide me
+        with ah-ha moments that I wouldn't have previously considered.</p>
       <p>As you increase your awareness, you'll build your empathy. Practice, practice,
         practice. Just like lifting weights to get stronger or running to get faster,
         expanding your awareness will develop your empathy.</p>
