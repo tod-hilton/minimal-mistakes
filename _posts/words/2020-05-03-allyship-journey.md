@@ -187,4 +187,39 @@ in New York City.
         them both.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="/images/allyship-slide-08.png"><img src="/images/allyship-slide-08-sm.png" alt="Allyship journey - slide 8 - Discuss allyship with others"></a>
+    </td>
+    <td>
+      <p><strong>Discuss allyship with others</strong></p>
+      <p>As you’re building your awareness, it’s important to not do it in a vacuum.
+        You’ll probably want to talk about it with others, hear their opinions, and discuss
+        how you can respond/react.</p>
+      <p>In my organization at work, we have a group that meets weekly to discuss issues of
+        equity. We cover all areas, such as gender, race, sexuality and more, while
+        trying to keep it apolitical. People opt-in to the discussions, it's not a requirement.
+        Out of the 150 people in our org, about 60 participate in the equity group email
+        list and 10-20 of those attend the weekly meeting.</p>
+      <p>I'm often asked "what do you talk about in the meetings?" It varies, but we alternate
+        between current events and a book. For current events, everyone is encouraged to
+        add things to the meeting agenda for discussion. Often these are articles and books
+        we've read, podcasts we've listend to, or documentaries and series we've watched, that
+        we felt were pertinent to equity. We also select a book to read each quarter, and then
+        discuss it over two to three meetings.</p>
+      <p>We encourage and advocate for healthy, open, and respectful conversations during the
+        meetings. This goes a long way in making people aware of their behavior and inclusiveness.</p>
+      <p>People who are curious about allyship want to discuss it. When you give people a (safe)
+        space to discuss allyship, they are more likely to do so.</p>
+      <p>When I originally presented this at <a href="https://anitab.org/">AnitaB.org's</a>
+        <a href="https://community.anitab.org/event/male-ally-summit-2019/">Male Ally Summit 2019</a>,
+        the audience was primarily men interested in allyship, specifically towards women.
+        That's why I added the quote: "the primary work of male allies is to influence other men."
+        In the context of that conference, women are usually on board with allyship and it's men
+        we need convince. But I think the quote still applies outside of that conference, women
+        and people from historically underrepresented groups understand the importance of allyship
+        because of their lived experiences. Meanwhile, men (especially us white men) need
+        to be convinced or reminded (often repeatedly) about the importance of allyship.</p>
+    </td>
+  </tr>
 </table>
